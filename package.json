@@ -1,0 +1,22 @@
+{
+  "name": "xiew",
+  "version": "1.0.0",
+  "description": "a web build by node",
+  "main": "index.js",
+  "scripts": {
+    "test": "love"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZZR-china/Xiew.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "ZZR-china",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZZR-china/Xiew/issues"
+  },
+  "homepage": "https://github.com/ZZR-china/Xiew#readme"
+}

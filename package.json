@@ -2,7 +2,7 @@
   "name": "xiew",
   "version": "1.0.0",
   "description": "a web build by node",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "love"
   },
@@ -18,5 +18,14 @@
   "bugs": {
     "url": "https://github.com/ZZR-china/Xiew/issues"
   },
-  "homepage": "https://github.com/ZZR-china/Xiew#readme"
+  "homepage": "https://github.com/ZZR-china/Xiew#readme",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "jade": "^1.11.0",
+    "moment": "^2.11.2",
+    "mongoose": "^4.4.5",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {}
 }

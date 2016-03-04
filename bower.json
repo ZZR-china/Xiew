@@ -1,0 +1,28 @@
+{
+  "name": "xiew",
+  "description": "xiew movie",
+  "main": "app.js",
+  "authors": [
+    "ZZR-china"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "node"
+  ],
+  "homepage": "https://github.com/ZZR-china/Xiew",
+  "moduleType": [
+    "es6",
+    "node"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}
